@@ -1,0 +1,2300 @@
+
+аборт, выкидыш
+
+abortus, us, m
+
+абсцесс, нарыв
+
+abscessus, us, m
+
+акустический
+
+acusticus, a, um
+
+аллергический
+
+allergicus, a, um
+
+альвеола
+
+alveolus, i, m
+
+альвеолярный
+
+alveolaris, e
+
+альтернирующий,
+
+alternans, ntis
+
+ампутация
+
+amputatio, onis, f
+
+анальный, заднепроходной
+
+analis, e
+
+анатомический
+
+anatomicus, a, um
+
+аорта
+
+aorta, ae, f
+
+аортальный
+
+aorticus, a, um
+
+апертура
+
+apertura, ae, f
+
+артериальный
+
+arteriosus, a, um; arterialis, e
+
+артериит
+
+arteriitis, idis, f
+
+артрит
+
+arthritis, idis, f
+
+артерия
+
+arteria, ae, f
+
+астма
+
+asthma, atis, n
+
+астматический
+
+asthmaticus, a, um
+
+атеросклероз
+
+atherosclerosis, is, f
+
+атеросклеротический
+
+atheroscleroticus, a, um
+
+атлант, первый шейный
+
+atlas, antis, m
+
+атрофия
+
+atrophia, ae, f
+
+ахилия, отсутствие желудочного сока
+
+achylia, ae, f
+
+барабан
+
+tympanum, i, n
+
+барабанный
+
+tympanicus, a, um
+
+бедро, бедренная кость
+
+femur, oris, n
+
+белый
+
+albus, a, um
+
+блуждающий
+
+migrans, ntis;
+
+боковой, латеральный
+
+lateralis, e
+
+болезнь
+
+morbus, i, m
+
+больной
+
+aegrotus, i, m; aeger, gra, grum
+
+большая берцовая кость
+
+tibia, ae, f
+
+большеберцовый
+
+tibialis, e
+
+большой
+
+magnus, a, um; maior, ius
+
+большой головной мозг
+
+cerebrum, i, n
+
+большой палец руки
+
+pollex, icis, m
+
+большой палец стопы
+
+hallux, ucis, m
+
+борозда, бороздка
+
+sulcus, i, m
+
+бред
+
+delirium, i, n
+
+бровь
+
+supercilium, i, n
+
+бронх
+
+bronchus, i, m
+
+бронхиальный
+
+bronchialis, e
+
+бронхит
+
+bronchitis, idis, f
+
+брюшина
+
+peritoneum, i, n
+
+брюшной
+
+abdominalis, e; ventralis, e
+
+бугор
+
+tuber, eris, n
+
+бугорок
+
+tuberculum, i, n
+
+бугристость
+
+tuberositas, atis, f
+
+вагинальный, влагалищный
+
+vaginalis, e
+
+вдавление
+
+impressio, onis, f
+
+веко
+
+palpebra, ae, f
+
+вена
+
+vena, ae, f
+
+венечный
+
+coronarius, a, um
+
+венозный
+
+venosus, a, um
+
+вертел
+
+trochanter, eris, m
+
+верхнечелюстной
+
+maxillaris, e
+
+верхний
+
+superior, ius
+
+верхняя челюсть
+
+maxilla, ae, f
+
+верхушка, вершина
+
+apex, icis, m
+
+ветвь
+
+ramus, i, m
+
+вещество
+
+substantia, ae, f
+
+висок
+
+tempus, oris, n
+
+височный
+
+temporalis, e
+
+влагалище
+
+vagina, ae, f
+
+влагалищный
+
+vaginalis, e
+
+внутренний
+
+internus, a, um
+
+возвратный
+
+recurrens, ntis
+
+возвышение
+
+eminentia, ae, f
+
+волокно
+
+fibra, ae, f
+
+ворота
+
+hilus, i, m; porta, ae, f
+
+воспаление
+
+inflammatio, onis, f
+
+восходящий
+
+ascendens, entis
+
+вращатель (мышца)
+
+rotator, oris, m
+
+время
+
+tempus, oris, n
+
+врожденный
+
+congenitus, a, um
+
+вторичный
+
+secundarius, a, um
+
+выводящий
+
+efferens, ntis
+
+выдающийся, выступающий
+
+eminens, ntis
+
+выкидыш, аборт
+
+abortus, us, m
+
+выносящий
+
+efferens, ntis
+
+вырезка
+
+incisura, ae, f
+
+выступ
+
+protuberantia, ae, f
+
+выступающий
+
+prominens, ntis
+
+выя (задняя часть шеи)
+
+nucha, ae, f
+
+ганглий, нервный узел
+
+ganglion, i, n
+
+гематогенный
+
+haematogenus, a, um
+
+гематома
+
+haematoma, atis, n
+
+глаз
+
+oculus, i, m
+
+глазница
+
+orbita, ae, f
+
+глазничный
+
+orbitalis, e
+
+глазной
+
+ophthalmicus, a, um
+
+глаукома
+
+glaucoma, atis, n
+
+глотка
+
+pharynx, ngis, m
+
+глоточный
+
+pharyngeus, a, um
+
+глубокий
+
+profundus, a, um
+
+гнойный
+
+purulentus, a, um
+
+голень
+
+crus, cruris, n
+
+голова
+
+caput, itis, n
+
+головка
+
+capitulum, i, n
+
+головной мозг
+
+encephalon, i, n
+
+горизонтальный
+
+horizontalis, e
+
+гортанный
+
+laryngeus, a, um
+
+гортань
+
+larynx, ngis, m
+
+горячечный бред
+
+delirium tremens
+
+гребень
+
+crista, ae, f
+
+грудина
+
+sternum, i, n
+
+грудная клетка
+
+thorax, acis, m
+
+грудной
+
+pectoralis, e;
+
+грудь
+
+pectus, oris, n
+
+грыжа
+
+hernia, ae, f
+
+грыжевой
+
+hernialis, e
+
+губа
+
+labium, i, n
+
+губной
+
+labialis, e
+
+губчатый
+
+spongiosus, a, um
+
+двенадцатиперстная кишка
+
+duodenum, i, n
+
+двуглавый
+
+biceps, cipitis
+
+дельтовидный
+
+deltoideus, a, um
+
+десна
+
+gingiva, ae, f
+
+детский
+
+infantilis, e
+
+дефект
+
+defectus, us, m
+
+деформирующий
+
+deformans, ntis
+
+диабет
+
+diabetes, ae, m
+
+диабетический
+
+diabeticus, a, um
+
+диагноз
+
+diagnosis, is, f
+
+диафрагма
+
+diaphragma, atis, n
+
+диск
+
+discus, i, m
+
+дистальный, более удаленный 
+
+distalis, e
+
+дистрофия
+
+dystrophia, ae, f
+
+диффузный
+
+diffusus, a, um
+
+длинный
+
+longus, a, um
+
+дно
+
+fundus, i, m
+
+добавочный
+
+accessorius, a, um
+
+доброкачественный
+
+benignus, a, um
+
+долевой
+
+lobaris, e
+
+доля
+
+lobus, i, m
+
+дорсальный
+
+dorsalis, e
+
+дуга
+
+arcus, us, m
+
+естественный, натуральный
+
+naturalis, e
+
+жевательная мышца
+
+masseter, eris, m
+
+железа
+
+glandula, ae, f
+
+желтуха
+
+icterus, i, m
+
+желтый
+
+flavus, a, um
+
+желудок
+
+gaster, tris, f
+
+желудочек
+
+ventriculus, i, m
+
+желудочный
+
+gastricus, a, um
+
+желчный пузырь
+
+vesica fellea
+
+желчь в желчном пузыре
+
+fel, fellis, n
+
+желчь проточная
+
+billis, is, f; chole, es, f
+
+живот, брюхо, чрево
+
+abdomen, inis, n
+
+задний
+
+posterior, ius
+
+запирательный
+
+obturatorius, a, um
+
+запирающая мышца
+
+sphincter, eris, m
+
+запястье
+
+carpus, i, m
+
+заслонка
+
+valvula, ae, f
+
+затылок
+
+occiput, itis, n
+
+затылочный
+
+occipitalis, e
+
+злокачественный
+
+malignus, a, um
+
+зрительный
+
+opticus, a, um
+
+зрительный бугор
+
+thalamus, i, m
+
+зуб
+
+dens, dentis, m
+
+зубной
+
+dentalis, e
+
+извилина
+
+gyrus, i, m
+
+изгиб
+
+flexura, ae,f
+
+инфекционный
+
+infectiosus, a, um
+
+каменистый
+
+petrosus, a, um
+
+канал
+
+canalis, is, m
+
+капсула
+
+capsula, ae, f
+
+кариес
+
+caries, ei, f
+
+киста
+
+cysta, ae, f
+
+кистозный
+
+cysticus, a, um; cystosus, a, um
+
+кисть руки
+
+manus, us, f
+
+кишечный
+
+intestinalis, e
+
+кишка, кишечник
+
+intestinum, i, n
+
+клапан
+
+valva, ae, f
+
+клетка, ячейка
+
+cellula, ae, f
+
+клеточный
+
+cellularis, e
+
+клиновидный
+
+sphenoidalis, e
+
+клубок, клубочек
+
+glomus, eris, n
+
+ключица
+
+clavicula, ae, f
+
+ключичный
+
+clavicularis, e
+
+кожа
+
+cutis, is, f
+
+кожный
+
+cutaneus, a, um
+
+колено
+
+genu, us, n
+
+колотый
+
+punctus, a, um
+
+кома
+
+coma, atis, n
+
+конец, конечность
+
+extremitas, atis, f
+
+конечность; член
+
+membrum, i, n
+
+копчик
+
+coccyx, ygis, m
+
+копчиковый
+
+coccygeus, a, um
+
+кора, корковое вещество
+
+cortex, icis, m
+
+корень, корешок
+
+radix, icis, f
+
+корковый
+
+corticalis, e
+
+короткий
+
+brevis, e
+
+косой
+
+obliquus, a, um
+
+костномозговой
+
+medullaris, e
+
+костный
+
+osseus, a, um
+
+кость
+
+os, ossis, n
+
+край
+
+margo, inis, m
+
+красный
+
+ruber, bra, brum
+
+крестообразный
+
+cruciatus, a, um; cruciformis, e
+
+крестцовый
+
+sacer, era, crum (кость);
+
+кровеносный
+
+sanguineus, a, um
+
+кровь
+
+sanguis, inis, m
+
+круглый
+
+rotundus, a, um; teres, etis
+
+крыло
+
+ala, ae, f
+
+крыловидный
+
+pterygoideus, a, um
+
+крыльный
+
+alaris, e
+
+крыша
+
+tegmen, inis, n
+
+лабиринт
+
+labyrinthus, i, m
+
+лабиринтовый
+
+labyrinthicus, a, um
+
+ладонный
+
+palmaris, e
+
+латеральный, боковой
+
+lateralis, e
+
+левый
+
+sinister, tra, trum
+
+легкое
+
+pulmo, onis, m
+
+легочный
+
+pulmonalis, e
+
+лимфатический
+
+lymphaticus, a, um
+
+линия
+
+linea, ae, f
+
+липоматоз
+
+lipomatosis, is, f
+
+лихорадка
+
+febris, is, f
+
+лихорадочный
+
+febrilis, e
+
+лицевой, поверхностный
+
+facialis, e
+
+лицо, поверхность
+
+facies, ei, f
+
+лоб
+
+frons, ntis, f
+
+лобный
+
+frontalis, e
+
+лобок
+
+pubes, is, f
+
+ложный
+
+spurius, a, um
+
+локтевая кость
+
+ulna, ae, f
+
+локтевой
+
+ulnaris, e
+
+локтевой отросток
+
+olecranon, i, n
+
+лопатка
+
+scapula, ae, f
+
+лоханка почечная
+
+pelvis renalis
+
+луковица
+
+bulbus, i, m
+
+лучевая кость; луч
+
+radius, i, m
+
+лучевой
+
+radialis, e
+
+малоберцовая кость
+
+fibula, ae, f
+
+малый
+
+parvus, a, um; minor, minus
+
+матка
+
+uterus, i, m
+
+медиальный
+
+medialis, e
+
+межжелудочковый
+
+interventricularis, e
+
+межкостный
+
+interosseus, a, um
+
+межмышечный
+
+intermuscularis, e
+
+межпозвонковый
+
+intervertebralis, e
+
+межреберный
+
+intercostalis, e
+
+мешок
+
+saccus, i, m
+
+миндалина
+
+tonsilla, ae, f
+
+мозг головной
+
+encephalon, i, n
+
+мозг головной большой
+
+cerebrum, i, n
+
+мозг костный
+
+medulla ossium
+
+мозг спинной
+
+medulla spinalis
+
+мозговая оболочка
+
+meninx, ngis, f
+
+мозговая оболочка мягкая
+
+pia mater
+
+мозговая оболочка твердая
+
+dura mater
+
+мозговой
+
+cerebralis, e; medullaris, e
+
+мозжечковый
+
+cerebellaris, e
+
+мозжечок
+
+cerebellum, i, n
+
+мочевой
+
+urinarius, a, um
+
+мочеполовой
+
+urogenitalis, e
+
+мочеточник
+
+ureter, eris, m
+
+мышечный
+
+muscularis, e
+
+мышца
+
+musculus, i, m
+
+мягкий
+
+mollis, e
+
+надглазничный
+
+supraorbitalis, e
+
+надколенник
+
+patella, ae, f
+
+надкостница
+
+periosteum, i, n
+
+надпочечник
+
+glandula suprarenalis
+
+надпочечный
+
+suprarenalis, e
+
+надчревный
+
+epigastricus, a, um
+
+наиболее приближенный
+
+proximalis, e; proximus, a, um
+
+наиболее удаленный
+
+distalis, e
+
+наибольший
+
+maximus a, um
+
+наивысший
+
+supremus, a, um
+
+наименьший,
+
+minimus, a, um
+
+напрягающая мышца
+
+tensor, oris, m
+
+наружный
+
+externus, a, um
+
+начинающийся
+
+incipiens, ntis
+
+нёбный
+
+palatinus, a, um
+
+нёбо
+
+palatum, i, n
+
+невралгия
+
+neuralgia, ae, f
+
+непроходимость кишечника
+
+ileus, i, m
+
+нерв
+
+nervus, i, m
+
+нервный
+
+nervosus, a, um
+
+нервный узел
+
+ganglion, i, n
+
+нефрит
+
+nephritis, idis, f
+
+нефрэктомия
+
+nephrectomia, ae, f
+
+нижнечелюстной
+
+mandibularis, e
+
+нижний
+
+inferior, ius
+
+нижняя челюсть
+
+mandibula, ae, f
+
+нисходящий
+
+descendens, ntis
+
+новообразование
+
+neoplasma, atis, n
+
+нога, стопа
+
+pes, pedis, m
+
+ноготь
+
+unguis, is, m
+
+ножка
+
+crus, cruris, n
+
+нос
+
+nasus, i, m
+
+носовой
+
+nasalis, e
+
+область
+
+regio, onis, f
+
+ободочная кишка
+
+colon, i, n
+
+оболочка
+
+tunica, ae, f
+
+общий
+
+communis, e
+
+общий вид больного
+
+habitus aegroti
+
+овальный
+
+ovalis, e
+
+огибающий
+
+circumflexus, a, um
+
+околоушная железа
+
+parotis, idis, f
+
+опускающая мышца
+
+depressor, oris, m
+
+опухоль
+
+tumor, oris, m
+
+орган
+
+organum, i, n; organon, i, n
+
+осложненный
+
+complicatus, a, um
+
+основание
+
+basis, is, f
+
+остеомиелит
+
+osteomyelitis, idis, f
+
+остистый
+
+spinosus, a, um
+
+острый
+
+acutus, a, um
+
+ость
+
+spina, ae, f
+
+ось, второй шейный позвонок axis, is, m
+
+foramen, inis, n
+
+отводящая мышца
+
+abductor, oris, m
+
+отводящий (нерв)
+
+abducens, ntis
+
+отек
+
+oedema, atis, n
+
+отит
+
+otitis, idis, f
+
+открытый
+
+apertus, a, um
+
+отросток
+
+processus, us, m
+
+пазуха
+
+sinus, us, m
+
+палец
+
+digitus, i, m
+
+пальцевой
+
+digitalis, e
+
+паралич
+
+paralysis, is, f
+
+парез
+
+paresis, is, f
+
+первичный
+
+primarius, a, um
+
+перегородка
+
+septum, i, n
+
+передний
+
+anterior, ius
+
+перекрест
+
+chiasma, atis, n
+
+переливание
+
+transfusio, onis, f
+
+перелом
+
+fractura, ae, f
+
+перемежающийся
+
+intermittens, entis
+
+период
+
+periodus, i, f
+
+перстневидный
+
+cricoideus, a, um
+
+печеночный
+
+hepaticus, a, um
+
+печень
+
+hepar, atis, n
+
+пещеристый
+
+cavernosus, a, um
+
+пирамида
+
+pyramis, idis, f
+
+питательный
+
+nutricius, a, um
+
+пищевод
+
+oesophagus, i, m
+
+пищеводный
+
+oesophageus, a, um
+
+плазма
+
+plasma, atis, n
+
+пластинка
+
+lamina, ae, f
+
+пластический
+
+plasticus, a, um
+
+плеврит
+
+pleuritis, idis, f
+
+плечевая кость
+
+humerus, i, n
+
+плечевой отросток
+
+acromion, i, n
+
+плечо
+
+brachium, i, n
+
+плотный
+
+compactus, a, um
+
+поверхностный
+
+superficialis, e
+
+поверхность, лицо
+
+facies, ei, f
+
+подвздошный
+
+iliacus, a, um
+
+подвижный
+
+mobilis, e
+
+подглазничный
+
+infraorbitalis, e
+
+поджелудочная железа
+
+pancreas, atis, n
+
+подкожный
+
+subcutaneus, a, um
+
+подлопаточный
+
+subscapularis, e
+
+подниматель (мышца)
+
+levator, oris, m
+
+подострый
+
+subacutus, a, um
+
+подреберный
+
+subcostalis, e
+
+подъязычный
+
+sublingualis, e
+
+позвонок
+
+vertebra, ae, f
+
+позвоночный
+
+vertebralis, e
+
+ползучий
+
+serpens, ntis
+
+полость
+
+cavum, i, n; cavitas, atis, f
+
+полушарие
+
+hemispherium, i, n
+
+полый
+
+cavus, a, um
+
+поперечный
+
+transversus, a, um; transversalis, e
+
+порок, недостаток
+
+vitium, i, n
+
+постоянный
+
+permanens, ntis
+
+посттравматический
+
+posttraumaticus, a, um
+
+почечная лоханка
+
+pelvis renalis
+
+почечный
+
+renalis, e
+
+почка
+
+ren, renis, m
+
+поясница
+
+lumbus, i, m
+
+поясничный
+
+lumbalis, e
+
+правый
+
+dexter, tra, trum
+
+предсердие
+
+atrium, i, n
+
+прерывистый
+
+intermittens, ntis
+
+приводящая (мышца)
+
+adductor, oris, m
+
+приносящий
+
+afferens, ntis
+
+приобретенный
+
+acquisitus, a, um
+
+прободающий
+
+perforans, ntis
+
+прогрессивный
+
+progressivus, a, um
+
+продольный
+
+longitudinalis, e
+
+продырявленный
+
+perforatus, a, um
+
+проксимальный
+
+proximalis, e
+
+промежуток, пространство
+
+spatium, i, n
+
+промежуточный
+
+intermedius, a, um
+
+проникающий
+
+penetrans, ntis
+
+простой
+
+simplex, icis
+
+противополагающий
+
+opponens, ntis
+
+проток
+
+ductus, us, m
+
+проход, ход
+
+meatus, us, m
+
+прямой
+
+rectus, a, um
+
+пузырь
+
+vesica, ae, f
+
+пузырь желчный
+
+vesica fellea
+
+пузырь мочевой
+
+vesica urinaria
+
+пульпа, мякоть
+
+pulpa, ae, f
+
+пульс
+
+pulsus, us, m
+
+пункция, прокол
+
+punctio, onis, f
+
+путь, тракт
+
+tractus, us, m
+
+пяточная кость
+
+calcaneus, i, m
+
+пяточный
+
+calcaneus, a, um
+
+радужная оболочка глаза
+
+iris, idis, f
+
+разгибатель (мышца)
+
+extensor, oris, m
+
+разлитой
+
+diffusus, a, um
+
+разрыв
+
+ruptura, ae, f
+
+раковина
+
+concha, ae, f
+
+рана
+
+vulnus, eris, n
+
+ранение
+
+vulneratio, onis, f
+
+рассеянный
+
+disseminatus, a, um
+
+рваный
+
+laceratus, a, um
+
+реберный
+
+costalis, e
+
+ребро
+
+costa, ae, f
+
+резаный
+
+incisus, a, um
+
+резекция
+
+resectio, onis, f
+
+ректальный
+
+rectalis, e
+
+ресничный
+
+ciliaris, e
+
+решетчатый
+
+cribrosus, a, um; ethmoidalis, e
+
+рог
+
+cornu, us, n
+
+роговица
+
+cornea, ae, f
+
+рот
+
+os, oris, n
+
+рука, кисть
+
+manus, us, f
+
+рукоятка
+
+manubrium, i, n
+
+сагиттальный
+
+sagittalis, e
+
+саркома
+
+sarcoma, atis, n
+
+свободный
+
+liber, era, erum
+
+свод
+
+fornix, icis, m
+
+связка
+
+ligamentum, i, n
+
+сгибатель (мышца)
+
+flexor, oris, m
+
+седалищный
+
+ischiadicus, a, um
+
+селезенка
+
+lien, enis, m
+
+сердечный
+
+cardiacus, a, um
+
+сердце
+
+cor, cordis, n
+
+сетчатка
+
+retina, ae, f
+
+сеть
+
+rete, is, n
+
+сигмовидный
+
+sigmoideus, a, um
+
+симпатический
+
+sympathicus, a, um
+
+синовиальный
+
+synovialis, e
+
+синус
+
+sinus, us, m
+
+система
+
+systema, atis, n
+
+скелет
+
+skeleton, i, n
+
+складка
+
+plica, ae, f
+
+склероз, уплотнение
+
+sclerosis, is, f
+
+скрытый
+
+latens, ntis
+
+скула
+
+zygoma, atis, n
+
+скуловой
+
+zygomaticus, a, um
+
+слеза
+
+lacrima, ae, f
+
+слезный
+
+lacrimalis, e
+
+слепой
+
+caecus, a, um
+
+слизистая оболочка
+
+mucosa, ae, f
+
+слизистый
+
+mucosus, a, um
+
+сложный
+
+compositus, a, um
+
+слой
+
+stratum, i, n
+
+слуховой
+
+auditivus, a, um; acusticus, a, um
+
+смешанный
+
+mixtus, a, um
+
+собственный
+
+proprius, a, um
+
+соединение
+
+junctura, ae, f
+
+соединительный
+
+conjunctivus, a, um
+
+соединяющий
+
+communicans, ntis
+
+сонная артерия
+
+(a) carotis, idis, f
+
+сопутствующий
+
+comitans, ntis
+
+состояние
+
+status, us, m
+
+сосуд
+
+vas, vasis, n
+
+сосудистый
+
+vascularis, e; vasculosus, a, um
+
+сосцевидный
+
+mastoideus, a, um
+
+сошник
+
+vomer, eris, m
+
+спазм, судорога
+
+spasmus, i, m
+
+спазмолитический
+
+spasmolyticus, a, um
+
+спайка
+
+commissura, ae, f
+
+спастический
+
+spasticus, a, um
+
+спинальный
+
+spinalis, e
+
+спина, спинка; тыл
+
+dorsum, i, n
+
+спинной, тыльный
+
+dorsalis, e
+
+спинномозговой
+
+cerebrospinalis, e
+
+сплетение
+
+plexus, us, m
+
+срединный
+
+medianus, a, um
+
+средний
+
+medius, a, um
+
+старческий
+
+senilis, e
+
+ствол
+
+truncus, i, m
+
+стенка
+
+paries, etis, m
+
+столб
+
+columna, ae, f
+
+стопа
+
+pes, pedis, m
+
+стремя
+
+stapes, edis, m
+
+строма, остов
+
+stroma, atis, n
+
+ступор, оцепенение
+
+stupor, oris, m
+
+сумка
+
+bursa, ae, f
+
+сустав
+
+articulatio, onis, f
+
+суставной
+
+articularis, e
+
+сухожилие
+
+tendo, inis, m
+
+сфинктер
+
+sphincter, eris, m
+
+таламус, зрительный бугор
+
+thalamus, i, m
+
+таз
+
+pelvis, is, f
+
+тазовый
+
+pelvinus, a, um; pelvicus, a, um
+
+твердый
+
+durus, a, um
+
+тело
+
+corpus, oris, n
+
+теменной
+
+parietalis, e
+
+темя, вершина
+
+vertex, icis, m
+
+тиф
+
+typhus, i, m
+
+ткань
+
+textus, us, m
+
+тонкий
+
+tenuis, e
+
+травма
+
+trauma, atis, n
+
+трапециевидный
+
+trapezoideus, a, um; trapezius,
+
+трахея, дыхательное горло
+
+trachea, ae, f
+
+тремор, дрожание
+
+tremor, oris, m
+
+трехглавый
+
+triceps, cipitis
+
+тройничный
+
+trigeminus, a, um
+
+трофический
+
+trophicus, a, um
+
+труба
+
+tuba, ae, f
+
+туберкулез
+
+tuberculosis, is, f
+
+тыльный
+
+dorsalis, e
+
+углубление, карман
+
+recessus, us, m
+
+угол
+
+angulus, i, m
+
+угрожающий
+
+imminens, ntis
+
+уздечка
+
+frenulum, i, n
+
+узел
+
+nodus, i, m
+
+указательный палец
+
+index, icis, m
+
+укушенный
+
+morsus, a, um
+
+улитка
+
+cochlea, ae, f
+
+устье, отверстие, вход
+
+ostium, i, n
+
+ухо
+
+auris, is, f
+
+ушибленный
+
+contusus, a, um
+
+ушной
+
+auricularis, e
+
+фаланга
+
+phalanx ngis, f
+
+фасция
+
+fascia, ae, f
+
+фиброз
+
+fibrosis, is, f
+
+фиброзный, волокнистый
+
+fibrosus, a, um
+
+флеботромбоз
+
+phlebothrombosis, is, f
+
+флегмона
+
+phlegmone, es, f
+
+функциональный
+
+functionalis, e
+
+ход
+
+meatus, us, m
+
+хронический
+
+chronicus, a, um
+
+хрусталик
+
+lens, ntis, f
+
+хрящ
+
+cartilago, inis, f
+
+центральный
+
+centralis, e
+
+церебральный
+
+cerebralis, e
+
+часть
+
+pars, partis, f
+
+чередующийся
+
+alternans, ntis
+
+череп
+
+cranium, i, n
+
+черепной
+
+cranialis, e
+
+черепной свод
+
+calvaria, ae, f
+
+черепномозговой
+
+craniocerebralis, e
+
+черный
+
+niger, gra, grum
+
+четырехглавый
+
+quadriceps, cipitis
+
+чешуйчатый
+
+squamosus, a, um
+
+чешуя
+
+squama, ae, f
+
+чистый
+
+purus, a, um
+
+шейный
+
+cervicalis, e
+
+шероховатый
+
+asper, era, erum
+
+шея, шейка
+
+collum, i, n; cervix, icis, f
+
+шиловидный
+
+styloideus, a, um
+
+широкий
+
+latus, a, um
+
+широчайший
+
+latissimus, a, um
+
+шов
+
+sutura, ae, f; rhaphe, es, f
+
+щека
+
+bucca, ae, f
+
+щель, борозда
+
+fissura, ae, f
+
+щель, расщелина
+
+hiatus, us, m
+
+щечный
+
+buccalis, e
+
+щитовидная железа
+
+glandula thyreoidea
+
+щитовидный
+
+thyreoideus, a, um
+
+экзема
+
+eczema, atis, n
+
+эпидемический
+
+epidemicus, a, um
+
+эфферентный, выносящий
+
+efferens, ntis
+
+юношеский
+
+juvenilis, e
+
+яблоко глазное
+
+bulbus oculi
+
+ягодичный
+
+gluteus, a, um
+
+ядовитый
+
+toxicus, a, um
+
+ядро
+
+nucleus, i, m
+
+язва
+
+ulcus, eris, n
+
+язвенный
+
+ulcerosus, a, um
+
+язык
+
+lingua, ae, f
+
+язычный
+
+lingualis, e
+
+язычок
+
+lingula, ae, f
+
+ямка
+
+fossa, ae, f; fovea, ae, f
+
+яремный
+
+jugularis

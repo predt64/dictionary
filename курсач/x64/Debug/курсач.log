@@ -1,0 +1,8 @@
+﻿  курсач.cpp
+C:\Users\Redmi\source\repos\курсач\курсач\курсач.cpp(492,21): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+C:\Users\Redmi\source\repos\курсач\курсач\курсач.cpp(509,25): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+C:\Users\Redmi\source\repos\курсач\курсач\курсач.cpp(85): warning C4715: List::operator(): значение возвращается не при всех путях выполнения
+C:\Users\Redmi\source\repos\курсач\курсач\курсач.cpp(98): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\Redmi\source\repos\курсач\курсач\курсач.cpp(111): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\Redmi\source\repos\курсач\курсач\курсач.cpp(123): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  курсач.vcxproj -> C:\Users\Redmi\source\repos\курсач\x64\Debug\курсач.exe
